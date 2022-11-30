@@ -8,7 +8,7 @@
         "revision": "3c755da21fe4a41dbd6b6aafb8338d72ebba2cc0"
       },
       "homebrew/core": {
-        "revision": "224c854f6ffe8fe89594966d533655ce780f3832"
+        "revision": "68eca5e7941e5a687b9f164f5e54f1b756fa37b1"
       }
     },
     "brew": {
@@ -563,6 +563,12 @@
         "options": {
           "full_name": "jetbrains-toolbox"
         }
+      },
+      "flutter": {
+        "version": "3.3.9",
+        "options": {
+          "full_name": "flutter"
+        }
       }
     },
     "mas": {
@@ -585,7 +591,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.13",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "224c854f6ffe8fe89594966d533655ce780f3832",
+        "Homebrew/homebrew-core": "68eca5e7941e5a687b9f164f5e54f1b756fa37b1",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0.1"

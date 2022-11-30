@@ -12,6 +12,7 @@ brew "python@3.9"
 brew "serverless"
 brew "starship"
 brew "stow"
+cask "flutter"
 cask "jetbrains-toolbox"
 mas "Bitwarden", id: 1352778147
 mas "TestFlight", id: 899247664
