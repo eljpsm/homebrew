@@ -19,7 +19,9 @@ brew "starship"
 brew "stow"
 cask "adoptopenjdk8"
 cask "flutter"
+cask "google-chrome"
 cask "jetbrains-toolbox"
+cask "spotify"
 mas "Bitwarden", id: 1352778147
 mas "TestFlight", id: 899247664
 mas "Xcode", id: 497799835
