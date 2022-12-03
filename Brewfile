@@ -22,5 +22,6 @@ cask "flutter"
 cask "google-chrome"
 cask "jetbrains-toolbox"
 mas "Apple Developer", id: 640199958
+mas "Bitwarden", id: 1352778147
 mas "TestFlight", id: 899247664
 mas "Xcode", id: 497799835

@@ -11,7 +11,7 @@
         "revision": "a724903d424a0ab9700faf6df726be63eea8d82e"
       },
       "homebrew/core": {
-        "revision": "3d5e00e72a662de5a8d8449212f1de2b8f17ec19"
+        "revision": "8ba8ebf7f0900c0456ffd780ad74577df830a45f"
       }
     },
     "brew": {
@@ -791,7 +791,8 @@
       "Xcode": {
         "id": "497799835",
         "version": "14.1"
-      }
+      },
+      "Bitwarden": null
     }
   },
   "system": {
@@ -799,7 +800,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.13",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "3d5e00e72a662de5a8d8449212f1de2b8f17ec19",
+        "Homebrew/homebrew-core": "8ba8ebf7f0900c0456ffd780ad74577df830a45f",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0.1"
